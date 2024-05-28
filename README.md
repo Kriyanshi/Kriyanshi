@@ -2,8 +2,7 @@
 <B>Driven by a vision for a brighter future in AI/ML, IoT, and instrumentation, I am committed to leveraging technology to drive positive change. Whether it's building projects, conducting research, or collaborating with like-minded professionals, I am dedicated to shaping the future of these transformative fields.
 
 Let's connect and embark on a journey towards innovation and excellence together.</B>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriyanshi)](https://github.com/anuraghazra/github-readme-stats)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
