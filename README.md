@@ -5,8 +5,6 @@ Let's connect and embark on a journey towards innovation and excellence together
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 - 🔭 I’m currently working on deeplearning projects and building algorithms.
 - 🌱 I’m currently learning Generative AI and Prompt engineering.
@@ -16,3 +14,4 @@ Let's connect and embark on a journey towards innovation and excellence together
 - 📫 How to reach me: kriyanshithakkar2001@gmail.com 
 - ⚡ Fun fact: I can type my name with my eyes closed.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
