@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Geospatial datasets.
+- 🔭 I’m currently working on deeplearning projects and building algorithms.
 - 🌱 I’m currently learning Generative AI and Prompt engineering.
 - 👯 I’m looking to collaborate on deep learning or AI projects.
 - 🤔 I’m looking for help with searching good job in AI.
