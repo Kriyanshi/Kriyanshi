@@ -3,6 +3,7 @@
 
 Let's connect and embark on a journey towards innovation and excellence together.</B>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriyanshi)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
