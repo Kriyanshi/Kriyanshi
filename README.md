@@ -2,7 +2,7 @@
 <B>Driven by a vision for a brighter future in AI/ML, IoT, and instrumentation, I am committed to leveraging technology to drive positive change. Whether it's building projects, conducting research, or collaborating with like-minded professionals, I am dedicated to shaping the future of these transformative fields.
 
 Let's connect and embark on a journey towards innovation and excellence together.</B>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriyanshi)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
