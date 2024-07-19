@@ -3,6 +3,14 @@
 
 Let's connect and embark on a journey towards innovation and excellence together.</B>
 
+![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
+https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
 
 
