@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey👋, I'm Kriyanshi Thakkar !
+<a href="https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D" target="_blank">
+  <img src="https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png" width="26" height="26"/>
+</a>
 <B>Driven by a vision for a brighter future in AI/ML, IoT, and instrumentation, I am committed to leveraging technology to drive positive change. Whether it's building projects, conducting research, or collaborating with like-minded professionals, I am dedicated to shaping the future of these transformative fields.</B>
 - 🔭 I’m currently working on deeplearning projects and building algorithms.
 - 🌱 I’m currently learning Generative AI and Prompt engineering.
@@ -7,11 +10,8 @@
 - 📫 How to reach me: kriyanshithakkar2001@gmail.com 
 - ⚡ Fun fact: I can type my name with my eyes closed.
 
-## Contact
 
-<a href="https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D" target="_blank">
-  <img src="https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png" width="26" height="26"/>
-</a>
+
 
 ##Languages and Tools
 
