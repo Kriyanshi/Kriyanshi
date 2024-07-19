@@ -1,9 +1,11 @@
-<div align="center">
+<div style="text-align: justify;">
+  
 ## Hey👋, I'm Kriyanshi Thakkar !
 
 ## About Me
 
 I am a passionate tech enthusiast with a strong foundation in computer science and a love for innovative problem-solving. My expertise spans across various domains, including software development, data analysis, AI/ML, and IoT. I thrive on learning new technologies and applying them to create impactful solutions.
+</div>
 
 ### Skills & Technologies
 
