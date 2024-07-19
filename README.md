@@ -2,7 +2,14 @@
 <B>Driven by a vision for a brighter future in AI/ML, IoT, and instrumentation, I am committed to leveraging technology to drive positive change. Whether it's building projects, conducting research, or collaborating with like-minded professionals, I am dedicated to shaping the future of these transformative fields.
 
 Let's connect and embark on a journey towards innovation and excellence together.</B>
+- 🔭 I’m currently working on deeplearning projects and building algorithms.
+- 🌱 I’m currently learning Generative AI and Prompt engineering.
+- 👯 Looking to collaborate on deep learning or AI projects.
+- 💬 Ask me about Computer science.
+- 📫 How to reach me: kriyanshithakkar2001@gmail.com 
+- ⚡ Fun fact: I can type my name with my eyes closed.
 
+**Languages and Tools**
 ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,11 +21,6 @@ Let's connect and embark on a journey towards innovation and excellence together
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
 
 
-- 🔭 I’m currently working on deeplearning projects and building algorithms.
-- 🌱 I’m currently learning Generative AI and Prompt engineering.
-- 👯 Looking to collaborate on deep learning or AI projects.
-- 💬 Ask me about Computer science.
-- 📫 How to reach me: kriyanshithakkar2001@gmail.com 
-- ⚡ Fun fact: I can type my name with my eyes closed.
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
