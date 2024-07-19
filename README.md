@@ -1,9 +1,24 @@
+<div align="center">
 ## Hey👋, I'm Kriyanshi Thakkar !
 
-<B>Driven by a vision for a brighter future in AI/ML, IoT, and instrumentation, I am committed to leveraging technology to drive positive change. Whether it's building projects, conducting research, or collaborating with like-minded professionals, I am dedicated to shaping the future of these transformative fields.</B>
+## About Me
+
+I am a passionate tech enthusiast with a strong foundation in computer science and a love for innovative problem-solving. My expertise spans across various domains, including software development, data analysis, AI/ML, and IoT. I thrive on learning new technologies and applying them to create impactful solutions.
+
+### Skills & Technologies
+
+- **Programming Languages:** Python, C++, JavaScript
+- **Libraries & Frameworks:** TensorFlow, PyTorch, React
+- **Specializations:** Machine Learning, Data Analysis, IoT
+- **Tools & Platforms:** Git, Docker, AWS
+
+### My Journey
+
+From building intelligent systems to developing IoT solutions, my journey in tech has been driven by curiosity and a desire to make a difference. I am committed to continuous learning and contributing to the tech community.
+
 - 🔭 I’m currently working on deeplearning projects and building algorithms.
 - 🌱 I’m currently learning Generative AI and Prompt engineering.
-- 👯 Looking to collaborate on deep learning or AI projects.
+- 👯 Looking to collaborate on real-time projects.
 - 💬 Ask me about Computer science.
 - 📫 How to reach me: kriyanshithakkar2001@gmail.com 
 - ⚡ Fun fact: I can type my name with my eyes closed.
