@@ -10,6 +10,7 @@ Let's connect and embark on a journey towards innovation and excellence together
 - ⚡ Fun fact: I can type my name with my eyes closed.
 
 **Languages and Tools**
+
 ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,6 +19,8 @@ Let's connect and embark on a journey towards innovation and excellence together
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Aeduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
 
 
