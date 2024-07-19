@@ -22,6 +22,11 @@
 
 [![LinkedIn](https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png)]([https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D)
 
+## Contact
+
+<a href="https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D" target="_blank">
+  <img src="https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png" width="24" height="24"/>
+</a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
