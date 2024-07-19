@@ -18,7 +18,10 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Aeduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<a href=”https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D"><img align=”left” src=”https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png" alt=”kriyanshi | LinkedIn” width=”21px”/></a>
+## Contact
+
+[![LinkedIn](https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png)]([https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
