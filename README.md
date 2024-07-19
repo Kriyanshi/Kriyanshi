@@ -1,9 +1,5 @@
 ## Hey👋, I'm Kriyanshi Thakkar !
 
-Connect me on <a href="https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D" target="_blank">
-  <img src="https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png" width="26" height="26"/>
-</a>
-
 <B>Driven by a vision for a brighter future in AI/ML, IoT, and instrumentation, I am committed to leveraging technology to drive positive change. Whether it's building projects, conducting research, or collaborating with like-minded professionals, I am dedicated to shaping the future of these transformative fields.</B>
 - 🔭 I’m currently working on deeplearning projects and building algorithms.
 - 🌱 I’m currently learning Generative AI and Prompt engineering.
@@ -12,10 +8,11 @@ Connect me on <a href="https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?l
 - 📫 How to reach me: kriyanshithakkar2001@gmail.com 
 - ⚡ Fun fact: I can type my name with my eyes closed.
 
+Connect me on <a href="https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQAN1K38gRLi23wEK9Y7J8w%3D%3D" target="_blank">
+  <img src="https://github.com/Kriyanshi/Kriyanshi/blob/main/linkedin.png" width="26" height="26"/>
+</a>
 
-
-
-##Languages and Tools
+## Languages and Tools
 
 ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,10 +24,7 @@ Connect me on <a href="https://www.linkedin.com/in/kriyanshi-thakkar-1bbaa015b?l
 ![Aeduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriyanshi&size_weight=0.5&count_weight=0.5)
-
-
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
